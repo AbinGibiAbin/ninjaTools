@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+        <module>
+            <name>ninjatools</name>
+            <displayName><![CDATA[Ninja Tools]]></displayName>
+            <version><![CDATA[1.1]]></version>
+            <description><![CDATA[Highly useful tools put together for developers]]></description>
+            <author><![CDATA[PrestashopNinja.com]]></author>
+            <tab><![CDATA[AdminTools]]></tab>
+            <is_configurable>1</is_configurable>
+            <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+        </module>

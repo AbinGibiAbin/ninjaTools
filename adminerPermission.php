@@ -1,0 +1,1 @@
+<?php $permission = "accessGranted";
